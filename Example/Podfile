@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'LCDCategoryKit_Example' do
+  pod 'LCDCategoryKit', :path => '../'
+
+  target 'LCDCategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
