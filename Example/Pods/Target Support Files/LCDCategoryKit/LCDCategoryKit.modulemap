@@ -1,0 +1,6 @@
+framework module LCDCategoryKit {
+  umbrella header "LCDCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

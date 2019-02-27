@@ -1,0 +1,16 @@
+PODS:
+  - LCDCategoryKit (1.1.0)
+
+DEPENDENCIES:
+  - LCDCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  LCDCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LCDCategoryKit: 35fc4ae510e4e53c2ba89eb39ca428f7e11fa1e8
+
+PODFILE CHECKSUM: 1f1c04e70a99a4428e5d734d24696390fb30d29c
+
+COCOAPODS: 1.5.3

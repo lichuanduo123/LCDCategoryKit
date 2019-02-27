@@ -1,0 +1,22 @@
+{
+  "name": "LCDCategoryKit",
+  "version": "1.1.0",
+  "summary": "A short description of LCDCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/lichuanduo123/LCDCategoryKit.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lichuanduo": "1113893709@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/lichuanduo123/LCDCategoryKit.git",
+    "tag": "1.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LCDCategoryKit/Classes/**/*"
+}

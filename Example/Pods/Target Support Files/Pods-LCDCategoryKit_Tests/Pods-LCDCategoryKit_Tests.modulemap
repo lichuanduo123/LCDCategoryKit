@@ -1,0 +1,6 @@
+framework module Pods_LCDCategoryKit_Tests {
+  umbrella header "Pods-LCDCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
